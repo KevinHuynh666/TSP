@@ -1,0 +1,28 @@
+C:\Users\Hieu Trung\source\repos\Assignment\Assignment\obj\Debug\Assignment.csprojAssemblyReference.cache
+C:\Users\Hieu Trung\source\repos\Assignment\Assignment\obj\Debug\Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Hieu Trung\source\repos\Assignment\Assignment\bin\Debug\Assignment.exe.config
+C:\Users\Hieu Trung\source\repos\Assignment\Assignment\bin\Debug\Assignment.exe
+C:\Users\Hieu Trung\source\repos\Assignment\Assignment\bin\Debug\Assignment.pdb
+C:\Users\Hieu Trung\source\repos\Assignment\Assignment\obj\Debug\Assignment.exe
+C:\Users\Hieu Trung\source\repos\Assignment\Assignment\obj\Debug\Assignment.pdb
+D:\Kevin\QUT\Semester 2\CAB201\Assignment 1\Net Framework\Assignment\Assignment\bin\Debug\Assignment.exe.config
+D:\Kevin\QUT\Semester 2\CAB201\Assignment 1\Net Framework\Assignment\Assignment\bin\Debug\Assignment.exe
+D:\Kevin\QUT\Semester 2\CAB201\Assignment 1\Net Framework\Assignment\Assignment\bin\Debug\Assignment.pdb
+D:\Kevin\QUT\Semester 2\CAB201\Assignment 1\Net Framework\Assignment\Assignment\obj\Debug\Assignment.csprojAssemblyReference.cache
+D:\Kevin\QUT\Semester 2\CAB201\Assignment 1\Net Framework\Assignment\Assignment\obj\Debug\Assignment.csproj.CoreCompileInputs.cache
+D:\Kevin\QUT\Semester 2\CAB201\Assignment 1\Net Framework\Assignment\Assignment\obj\Debug\Assignment.exe
+D:\Kevin\QUT\Semester 2\CAB201\Assignment 1\Net Framework\Assignment\Assignment\obj\Debug\Assignment.pdb
+D:\Kevin\QUT\Semester 2\CAB201\test BaR\Assignment\Assignment\bin\Debug\Assignment.exe.config
+D:\Kevin\QUT\Semester 2\CAB201\test BaR\Assignment\Assignment\bin\Debug\Assignment.exe
+D:\Kevin\QUT\Semester 2\CAB201\test BaR\Assignment\Assignment\bin\Debug\Assignment.pdb
+D:\Kevin\QUT\Semester 2\CAB201\test BaR\Assignment\Assignment\obj\Debug\Assignment.csprojAssemblyReference.cache
+D:\Kevin\QUT\Semester 2\CAB201\test BaR\Assignment\Assignment\obj\Debug\Assignment.csproj.CoreCompileInputs.cache
+D:\Kevin\QUT\Semester 2\CAB201\test BaR\Assignment\Assignment\obj\Debug\Assignment.exe
+D:\Kevin\QUT\Semester 2\CAB201\test BaR\Assignment\Assignment\obj\Debug\Assignment.pdb
+D:\Kevin\QUT\Semester 2\CAB201\Assignment 1\final check\Assignment\Assignment\bin\Debug\Assignment.exe.config
+D:\Kevin\QUT\Semester 2\CAB201\Assignment 1\final check\Assignment\Assignment\bin\Debug\Assignment.exe
+D:\Kevin\QUT\Semester 2\CAB201\Assignment 1\final check\Assignment\Assignment\bin\Debug\Assignment.pdb
+D:\Kevin\QUT\Semester 2\CAB201\Assignment 1\final check\Assignment\Assignment\obj\Debug\Assignment.csprojAssemblyReference.cache
+D:\Kevin\QUT\Semester 2\CAB201\Assignment 1\final check\Assignment\Assignment\obj\Debug\Assignment.csproj.CoreCompileInputs.cache
+D:\Kevin\QUT\Semester 2\CAB201\Assignment 1\final check\Assignment\Assignment\obj\Debug\Assignment.exe
+D:\Kevin\QUT\Semester 2\CAB201\Assignment 1\final check\Assignment\Assignment\obj\Debug\Assignment.pdb
